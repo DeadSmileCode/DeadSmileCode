@@ -8,8 +8,8 @@
 <br><br><br>
 
 <h2> Languages: <h2><br>
-- C/C++
-- JavaScript 
-- Assembler 
-- NodeJS
-- HTML/CSS
+- C/C++ <br>
+- JavaScript <br> 
+- Assembler <br>
+- NodeJS <br>
+- HTML/CSS <br>
