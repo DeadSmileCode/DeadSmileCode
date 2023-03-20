@@ -7,7 +7,7 @@
 <h3>I like to study networks and everything related to them</h3><br>
 <br><br><br>
 
-<h2> Languages: <h2>
+<h2 style="margin-bottom: 0px"> Languages: <h2>
 - C/C++ <br>
 - JavaScript <br> 
 - Assembler <br>
